@@ -2,5 +2,6 @@
 
 ## Group members
 
-Albert Pérez Paredes
-Arnau Mas
+- Albert Pérez Paredes
+- Arnau Mas Sánchez
+- Mario Cruz Bote
