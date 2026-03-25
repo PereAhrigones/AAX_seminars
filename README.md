@@ -3,3 +3,4 @@
 ## Group members
 
 Albert Pérez Paredes
+Arnau Mas
